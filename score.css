@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+}
+
+.container {
+  justify-content: center;
+  margin: 200px;
+  width: 300px;
+  height: auto;
+  background: rgba(5, 5, 199, 0.397);
+}
